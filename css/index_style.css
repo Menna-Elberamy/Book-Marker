@@ -1,0 +1,28 @@
+header .container{
+   border-bottom: 1px solid #999;
+   padding: 20px; 
+}
+.bookname{font-size: 30px; font-weight: 600;}
+header .container h3{font-size: 40spx; margin: 20px 0px; color: #AAA;}
+footer .container{
+   border-top: 1px solid #999;
+   padding: 20px;  
+   
+}
+footer .container h2{font-size: 14px;}
+.book .book-container{
+    background-color: #EEE;
+    width: 100%;
+    padding: 20px 50px;
+}
+.book .book-container h5{
+    font-size: 25px;
+    font-weight: 600;
+}
+.alert{padding: 0.1rem 1.25rem;}
+.alert-danger{ border-color: #721c24;}
+.book .book-container .show{display: none;}
+.book .result-container{
+    background-color:#EEE;
+    padding: 20px;
+}
